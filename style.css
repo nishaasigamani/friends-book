@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    color: black ;
+    display: flex;
+      flex-direction: column;
+      text-align: center;
+      position: absolute;
+      font-size: 20px;
+      margin-left: 300px;
+      font-weight: bolder;
+      padding-top: 5vh;     
+}
+#backGroundImage{
+    
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    height: 30vh;
+    padding-top: 5vh;
+}
+.run{
+    background-color: grey;
+    width: 85vw;
+    height: 55vh;
+}
